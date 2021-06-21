@@ -1,6 +1,6 @@
 {
-    "name": "testbig",
-    "short_name": "testbig",
+    "name": "Bigtilts Management",
+    "short_name": "Bigtilts Management",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
