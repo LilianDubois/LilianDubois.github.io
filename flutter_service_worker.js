@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "8604224dbdab0daf58485f5a2b299eba",
-"index.html": "f16b5a6e84fc4d64eb9888ef70980883",
-"/": "f16b5a6e84fc4d64eb9888ef70980883",
-"main.dart.js": "b34cc211aca62dd8bfbf9ef4b06511e3",
+"index.html": "5831546719c9bf3ad390921aa2e16de3",
+"/": "5831546719c9bf3ad390921aa2e16de3",
+"main.dart.js": "10d18714f573ec296c287660e2d52e00",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -18,11 +18,7 @@ const RESOURCES = {
 "assets/fonts/space_age.ttf": "ce43c6569134811c6828717671d38916",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/countrycodes.json": "818afc3a08dea4431debd7398e5329d0",
-"assets/assets/img/logo_wellputt.png": "8f5272df409094aed3efc9b9ef30da15",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/img/logo_wellputt.png": "8f5272df409094aed3efc9b9ef30da15"
 };
 
 // The application shell files that are downloaded before a service worker can
