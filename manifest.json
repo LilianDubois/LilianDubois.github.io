@@ -1,6 +1,6 @@
 {
-    "name": "testbig",
-    "short_name": "testbig",
+    "name": "Bigtilt management",
+    "short_name": "BT management",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
